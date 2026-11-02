@@ -150,7 +150,3 @@ streamlit run dashboard.py
 3. Isolation Forest achieves 95% recall for fault detection — appropriate for power systems where missing a fault is more costly than a false alarm.
 
 ---
-
-## Author
-
-**Reuben Abraham Jacob**
